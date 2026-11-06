@@ -4,3 +4,4 @@ sync.ffs_db
 node_modules/
 Thumbs.db
 desktop.ini
+.claude/
