@@ -1,0 +1,6 @@
+sync.ffs_db
+*.ffs_db
+.netlify/
+node_modules/
+Thumbs.db
+desktop.ini
